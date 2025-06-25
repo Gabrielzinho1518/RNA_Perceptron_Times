@@ -39,3 +39,14 @@ Classe que implementa a rede Perceptron com:
 1. Clone o repositório:
 ```bash
 git clone https://github.com/seu-usuario/perceptron-java.git
+
+```
+🧪 Testes
+Você pode testar novos pontos utilizando o método testar(Ponto) e o sistema dirá a qual classe ele pertence:
+
+Classe: 1 → Time Azul
+
+Classe: -1 → Time Vermelho
+
+🧑‍💻 Autor
+Desenvolvido por [Gabriel Saccol] – @Gabrielzinho1518
